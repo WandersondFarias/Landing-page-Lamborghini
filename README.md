@@ -27,6 +27,11 @@ O Projeto foi desenvolvido com as Tecnologia e voltadas nas seguintes Tarefas:
  
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+ <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+
+
 
  </div>
 
@@ -39,7 +44,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
        <td align="center">
       <a href="#">
-        <img src="././foto.jpg" width="100px;" alt=" wanderson de farias"/><br>
+        <img src="././foto.jpg.png" width="100px;" alt=" wanderson de farias"/><br>
         <sub>
           <b>wanderson de farias</b>
         </sub>
