@@ -54,7 +54,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
   </tr>
 </table>
- check application <a href="#.github.io/Landing-page-Lamborghini/">HERE!</a>
+
 
 
 
